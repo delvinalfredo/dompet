@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A ruled cash book: ink cover, paper page, three entry lines and a closing total rule. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#14110F"
+        android:pathData="M36,30h36a4,4 0,0 1,4 4v40a4,4 0,0 1,-4 4h-36a4,4 0,0 1,-4 -4v-40a4,4 0,0 1,4 -4z" />
+    <path
+        android:fillColor="#FFFDFA"
+        android:pathData="M39,34h32v40h-32z" />
+    <path
+        android:fillColor="#14110F"
+        android:pathData="M43,41h24v2h-24zM43,48h24v2h-24zM43,55h16v2h-16zM43,64h24v3h-24z" />
+</vector>

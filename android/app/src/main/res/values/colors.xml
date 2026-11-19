@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Furrow theme, converted from the oklch tokens. Compose uses ui/theme/Theme.kt. -->
+    <color name="paper">#FFF5F1EA</color>
+    <color name="paper_2">#FFFFFDFA</color>
+    <color name="ink">#FF14110F</color>
+    <color name="accent">#FFFC6B33</color>
+</resources>

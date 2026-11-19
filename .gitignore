@@ -1,0 +1,14 @@
+# Personal Claude Code settings; the shared kit in .claude/ is versioned.
+.claude/settings.local.json
+.claude/**/*.local.*
+
+# Build output and machine-specific files (android/.gitignore covers the Gradle project).
+*.apk
+*.aab
+local.properties
+.DS_Store
+Thumbs.db
+
+# App backups and exports hold personal financial data.
+dompet-bersama-backup-*.json
+dompet-bersama-*.csv
